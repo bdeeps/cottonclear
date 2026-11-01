@@ -1,0 +1,107 @@
+{
+  "slug": "cottonclear",
+  "box": 195,
+  "date": "2026-11-01",
+  "title": "CottonClear",
+  "question": "How does cotton form?",
+  "hook": "Every white strand in a cotton boll is one single cell, grown nearly 3 cm long in twenty days, then filled with cellulose, dried and twisted. Grow one yourself, spin it into thread, and follow the fibre from Mehrgarh through empire, slavery and Gandhi's charkha to Bt cotton.",
+  "thumbText": "HOW COTTON FORMS",
+  "field": "nature",
+  "minutes": 14,
+  "tags": [
+    "cotton",
+    "fibre",
+    "cellulose",
+    "textiles",
+    "Bt cotton",
+    "charkha",
+    "khadi",
+    "muslin",
+    "spinning",
+    "India",
+    "agriculture"
+  ],
+  "explainer": [
+    {
+      "title": "A seed hair, one cell long",
+      "text": "Cotton is a shrub whose fruit, the boll, holds about 30 seeds. Each seed wears long lint and short fuzz. Every hair is a single giant cell: a waxy cuticle, a primary wall, a winding layer, a thick secondary wall of cellulose and a hollow lumen."
+    },
+    {
+      "title": "One cell, 3 cm long",
+      "text": "From the day the flower opens, a seed-skin cell grows for about 20 days to 25 to 30 mm. Then it fills with spiralling cellulose in daily layers. About 50 days after flowering at a mean of 25 °C, the boll opens, the cell dries and the tube collapses into a twisted ribbon."
+    },
+    {
+      "title": "Why cotton behaves as it does",
+      "text": "Cellulose chains hold on by hydrogen bonds. Water enters the loose parts, so cotton takes up about 8.5% moisture in ordinary air and gets about 10 to 20% stronger wet. Bonds re-forming in bent chains cause creases. Narrow gaps between fibres wick liquid by capillary action."
+    },
+    {
+      "title": "Twist makes friction make strength",
+      "text": "Gins take off the lint, about a third of seed cotton's weight. Carding and drawing line up the fibres. Spinning adds twist, which squeezes fibres so friction holds them. Longer staple spins finer yarn. In a labelled estimate, one shirt takes the lint of about 180 bolls."
+    },
+    {
+      "title": "Growing it, fairly",
+      "text": "India has the world's largest cotton area and is second in output, mostly grown on rain. Bt cotton first cut bollworm damage, then the pink bollworm evolved resistance. Researchers disagree on its yield effect. Water figures depend on method. Farmer distress has many causes, and the role of Bt is debated."
+    },
+    {
+      "title": "A thread through history",
+      "text": "Cotton threads at Mehrgarh date to the 6th millennium BCE. Indian cloth led the world until British bans, Company coercion and Lancashire machines. Whitney's gin fed American slavery, grown to nearly 4 million people by 1860. Gandhi's charkha made spinning a political act."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Boll",
+      "def": "The cotton plant's fruit, a capsule that splits open to show lint and seeds."
+    },
+    {
+      "term": "Lint and fuzz",
+      "def": "The long seed hairs spun into thread, and the short ones left on the seed after ginning."
+    },
+    {
+      "term": "Cellulose",
+      "def": "A long chain of glucose units: the stuff of cotton, wood and paper."
+    },
+    {
+      "term": "Secondary wall",
+      "def": "The thick layers of cellulose a fibre lays down once it stops growing longer."
+    },
+    {
+      "term": "Convolution",
+      "def": "A natural twist in a dried cotton fibre, which helps fibres grip when spun."
+    },
+    {
+      "term": "Ginning outturn",
+      "def": "The share of seed cotton's weight that comes out as lint, about 36% on average in India."
+    },
+    {
+      "term": "Staple",
+      "def": "The typical length of a batch of fibres. Longer staple spins finer yarn."
+    },
+    {
+      "term": "Yarn count (Ne)",
+      "def": "How many 840-yard hanks weigh one pound. Higher means finer."
+    },
+    {
+      "term": "Bt cotton",
+      "def": "Cotton given a bacterial gene to make a protein toxic to certain caterpillars."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "cottonclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

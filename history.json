@@ -1,0 +1,829 @@
+{
+  "title": "The history of cotton",
+  "tagline": "Over 7,000 years from threads on a copper bead to a gene in a field, through empire, slavery and freedom.",
+  "intro": "Cotton's oldest Old World trace lies in Balochistan, and for most of history India led the world in cotton cloth. Then came empire, machines and slavery, which turned one soft fibre into the engine of the Industrial Revolution. A spinning wheel became a symbol of freedom, and a new gene set off an argument that is still going. Where historians disagree, this page says so.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "The first threads",
+      "from": -5500,
+      "to": 400,
+      "color": "#c49bff",
+      "summary": "Cotton appears in the Indus region, then in Harappan cities, and Indian cloth is shipped to Rome's world."
+    },
+    {
+      "id": "tools",
+      "name": "Roller and wheel",
+      "from": 400,
+      "to": 1700,
+      "color": "#6fb6ff",
+      "summary": "India's gins and spinning wheels, and an age when Indian cloth clothed much of the world."
+    },
+    {
+      "id": "empire",
+      "name": "Empire, machines and slavery",
+      "from": 1700,
+      "to": 1900,
+      "color": "#ff7a59",
+      "summary": "Britain bars Indian cloth, the Company takes Bengal, Lancashire mechanises, and American slavery grows the raw cotton."
+    },
+    {
+      "id": "mills",
+      "name": "Indian mills",
+      "from": 1850,
+      "to": 1920,
+      "color": "#ffb547",
+      "summary": "Indian capital builds mills in Bombay, and the American war shakes the world's cotton markets."
+    },
+    {
+      "id": "freedom",
+      "name": "The wheel and freedom",
+      "from": 1920,
+      "to": 1947,
+      "color": "#5ce1a9",
+      "summary": "Khadi and the charkha make clothing a political act."
+    },
+    {
+      "id": "modern",
+      "name": "Hybrids, strikes and genes",
+      "from": 1947,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Hybrids, the fall of Bombay's mills, Bt cotton, and the argument over what it did."
+    }
+  ],
+  "events": [
+    {
+      "year": -5500,
+      "date": "first half of the 6th millennium BCE",
+      "era": "ancient",
+      "art": "molecule",
+      "key": true,
+      "title": "Cotton threads on a copper bead",
+      "who": "Neolithic people of Mehrgarh",
+      "where": "Mehrgarh, Balochistan",
+      "country": "Pakistan",
+      "text": "Metal analysis of eight copper beads from a burial turned up threads preserved by minerals. Microscopy showed they were cotton. The authors say it is unclear whether the plant was already domesticated.",
+      "why": "It pushed the known use of cotton back by more than a thousand years.",
+      "box": "anatomy",
+      "sources": [
+        0,
+        5
+      ]
+    },
+    {
+      "year": -4000,
+      "date": "c. 4000 BCE (hedged)",
+      "era": "ancient",
+      "art": "leaf",
+      "title": "Another cotton in the Americas",
+      "who": "Early farmers of the Andes and Mesoamerica",
+      "where": "Peru and Mexico",
+      "country": "Peru",
+      "text": "People in the Americas began using different cotton species on their own. Finds in northern Peru are reported as comparable in age to Old World cotton, though dates vary by study.",
+      "why": "Cotton was taken up more than once, on separate continents.",
+      "sources": [
+        26,
+        5
+      ]
+    },
+    {
+      "year": -2500,
+      "date": "c. 2500 BCE",
+      "era": "ancient",
+      "art": "plate",
+      "key": true,
+      "title": "Cloth on a silver vessel at Mohenjo-daro",
+      "who": "Harappan weavers",
+      "where": "Mohenjo-daro, Sindh",
+      "country": "Pakistan",
+      "text": "Excavators under John Marshall described a tiny woven fragment preserved by metal salts on a silver vessel lid. They called their result tentative because the sample was so small. It is widely treated as cotton.",
+      "why": "It shows a city culture weaving cotton, not just using threads.",
+      "box": "anatomy",
+      "sources": [
+        1,
+        5
+      ]
+    },
+    {
+      "year": 60,
+      "date": "c. 1st century CE",
+      "era": "ancient",
+      "art": "boat",
+      "title": "Indian cotton on Roman trade routes",
+      "who": "Author of the Periplus",
+      "where": "Barygaza, Gujarat, and other ports",
+      "country": "India",
+      "text": "A Greek-language sailors' guide lists cotton cloth of all kinds and muslins among goods shipped from Indian ports, including Barygaza (now Bharuch) and the Tamil coast.",
+      "why": "Indian cotton was already a long-distance luxury and everyday trade.",
+      "sources": [
+        2,
+        5
+      ]
+    },
+    {
+      "year": 500,
+      "date": "c. 5th century (debated)",
+      "era": "tools",
+      "art": "gear",
+      "title": "A roller gin in India",
+      "who": "Indian cotton workers",
+      "where": "Western India",
+      "country": "India",
+      "text": "Handheld roller gins were used in India early. An Ajanta painting has been read as one, but the evidence is debated. Two-roller gins, known as charkhi or churka, are dated to about the 12th to 14th centuries.",
+      "why": "Roller ginning, still used in modern form, came long before Whitney.",
+      "box": "mill",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1350,
+      "date": "by c. 1350 (dates disputed)",
+      "era": "tools",
+      "art": "spokes",
+      "key": true,
+      "title": "The charkha in Indian writing",
+      "who": "Isami, Kannada poets",
+      "where": "Deccan and northern India",
+      "country": "India",
+      "text": "Historians Irfan Habib and Arnold Pacey take a passage by Isami, about 1350, as the first clear Indian mention of the spinning wheel, and suggest it arrived from Persia. Others read a Kannada source of the 12th century that way, or argue for an earlier Indian origin.",
+      "why": "A hand wheel multiplied a spinner's output, and later became a national symbol.",
+      "box": "past",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1600,
+      "date": "1600s",
+      "era": "tools",
+      "art": "scroll",
+      "title": "Indian cloth dresses the world",
+      "who": "Weavers of Gujarat, Bengal, Coromandel",
+      "where": "India",
+      "country": "India",
+      "text": "By the 17th century Indian cottons were traded across Asia, East Africa and Europe. European companies came partly in search of them. Words such as calico and chintz come from this trade.",
+      "why": "For centuries India led the world's cotton cloth.",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1700,
+      "date": "1700 and 1721",
+      "era": "empire",
+      "art": "scales",
+      "title": "Britain bans Indian calicoes",
+      "who": "British Parliament",
+      "where": "London",
+      "country": "United Kingdom",
+      "text": "The Calico Acts first barred imports of dyed or printed Indian cotton, then in 1721 restricted the sale and use of most cotton cloth. Historians disagree on how far this helped British industry. The Acts were repealed in 1774.",
+      "why": "Protection, not free trade, came first in Britain's cotton story.",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1757,
+      "date": "1757 onward",
+      "era": "empire",
+      "art": "person",
+      "key": true,
+      "title": "The Company takes control of Bengal's weavers",
+      "who": "East India Company",
+      "where": "Bengal",
+      "country": "India",
+      "text": "After the Battle of Plassey in 1757, the Company gained political power in Bengal. Weavers were pushed into advances and exclusive contracts, and William Bolts described coercion in 1772. The popular story of thumbs being cut off is rejected by historians as a misreading of his report.",
+      "why": "Weavers lost the freedom to sell to the highest bidder.",
+      "box": "past",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1769,
+      "date": "1764 to 1785",
+      "era": "empire",
+      "art": "gear",
+      "title": "Machines learn to spin",
+      "who": "Hargreaves, Arkwright, Crompton, Cartwright",
+      "where": "Lancashire and Derbyshire",
+      "country": "United Kingdom",
+      "text": "The spinning jenny, water frame, mule and power loom came within about twenty years. Spinning was mechanised first. Rollers, as in the drawing frame, made a continuous thread that needed no skilled hand.",
+      "why": "Yarn got far cheaper, and the factory system began with cotton.",
+      "box": "mill",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 1794,
+      "date": "patent 14 March 1794",
+      "era": "empire",
+      "art": "gear",
+      "key": true,
+      "title": "Whitney's saw gin",
+      "who": "Eli Whitney, on Catherine Greene's plantation in Georgia",
+      "where": "Georgia",
+      "country": "United States",
+      "text": "Whitney built his gin in 1793 and received a US patent in March 1794. Its teeth pulled lint from sticky upland seed, a job that had been very slow by hand. Copies spread at once.",
+      "why": "One worker could now clean far more upland cotton, and that made planting it pay.",
+      "box": "mill",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1800,
+      "date": "1790 to 1860",
+      "era": "empire",
+      "art": "person",
+      "key": true,
+      "title": "Slavery grows on cotton",
+      "who": "Enslaved African Americans",
+      "where": "American South",
+      "country": "United States",
+      "text": "US censuses count about 700,000 enslaved people in 1790 and nearly 4 million in 1860. Planters forced them west to new cotton lands, tearing apart families. Whitney had hoped that machines would reduce slavery. The opposite happened.",
+      "why": "The cheap raw cotton of the Industrial Revolution was grown by forced labour.",
+      "box": "past",
+      "sources": [
+        9,
+        8
+      ]
+    },
+    {
+      "year": 1820,
+      "date": "1800 to 1850",
+      "era": "empire",
+      "art": "building",
+      "key": true,
+      "title": "Bengal's fine weaving collapses",
+      "who": "Bengal's spinners and weavers, Lancashire exporters",
+      "where": "Dhaka and Lancashire",
+      "country": "Bangladesh",
+      "text": "Machine yarn and cloth from Britain entered India under low duties while Indian cloth faced high ones in Britain. The Company shut its Dhaka factories in 1819, and Dhaka muslin, spun from phuti karpas in counts of 300 or more, faded away.",
+      "why": "A world-leading export craft was lost within a lifetime.",
+      "box": "past",
+      "sources": [
+        6,
+        5
+      ]
+    },
+    {
+      "year": 1854,
+      "date": "1854 (production from 1856)",
+      "era": "mills",
+      "art": "building",
+      "key": true,
+      "title": "Bombay's first cotton mill",
+      "who": "Cowasji Nanabhoy Davar",
+      "where": "Tardeo, Bombay",
+      "country": "India",
+      "text": "The Bombay Spinning and Weaving Company was founded in 1854 and began production in 1856. A mill in Broach started in 1855, so which came first depends on how you count.",
+      "why": "Indian investors entered machine spinning, on Indian cotton.",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1861,
+      "date": "1861 to 1865",
+      "era": "mills",
+      "art": "boat",
+      "title": "The American war and Bombay's boom",
+      "who": "Lancashire and Bombay traders",
+      "where": "Lancashire and Bombay",
+      "country": "United Kingdom",
+      "text": "The US Civil War cut supplies of American cotton. Lancashire mills fell idle and many workers went hungry, and demand for Indian raw cotton soared, enriching Bombay until the war ended.",
+      "why": "It showed how tightly the world's cotton economies were linked.",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "19th and early 20th centuries",
+      "era": "empire",
+      "art": "scales",
+      "title": "How far did handlooms really fall?",
+      "who": "Tirthankar Roy and other historians",
+      "where": "India",
+      "country": "India",
+      "text": "Historians argue about deindustrialisation. Some stress destruction and lost livelihoods. Tirthankar Roy finds that handlooms' share of cotton cloth stayed roughly flat from the 1890s to the 1930s, and that weavers adapted. Both can be true for different places and cloths.",
+      "why": "Handlooms survive in India to this day, yet great losses are also clear.",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1920,
+      "date": "from 1920",
+      "era": "freedom",
+      "art": "spokes",
+      "key": true,
+      "title": "The charkha becomes a political act",
+      "who": "Mohandas Gandhi and the Congress",
+      "where": "India",
+      "country": "India",
+      "text": "With the Non-cooperation movement, khadi and the spinning wheel moved to the centre of the Congress programme. Foreign cloth was boycotted and burned, and spinning was promoted as work and self-respect, women's work among it.",
+      "why": "A household tool became the symbol of freedom, and later sat on a draft national flag.",
+      "box": "past",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "September 1925",
+      "era": "freedom",
+      "art": "person",
+      "title": "The All India Spinners Association",
+      "who": "Gandhi, Jamnalal Bajaj and others",
+      "where": "Patna",
+      "country": "India",
+      "text": "The Association was set up in 1925 to organise khadi production, paying spinners and weavers, many of them poor women. It grew out of an earlier Khadi Board formed in 1924.",
+      "why": "It tried to make the charkha an economy as well as a symbol.",
+      "sources": [
+        13,
+        12
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "1970",
+      "era": "modern",
+      "art": "flask",
+      "title": "First commercial cotton hybrid; the CCI",
+      "who": "C. T. Patel at Surat; Government of India",
+      "where": "Gujarat",
+      "country": "India",
+      "text": "Hybrid-4, released in 1970 from Surat, is often described as the world's first commercial cotton hybrid. The Cotton Corporation of India was set up in the same year to buy cotton at support prices.",
+      "why": "Hybrids reshaped Indian cotton, and it set up the support system still used today.",
+      "sources": [
+        34,
+        5
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "18 January 1982 to 1983",
+      "era": "modern",
+      "art": "building",
+      "title": "The great Bombay strike",
+      "who": "Datta Samant and about 2.5 lakh workers",
+      "where": "Bombay",
+      "country": "India",
+      "text": "Mill workers struck over pay and union rights across some 60 mills, for about a year and a half. The strike failed, many mills never recovered, and their land was later redeveloped.",
+      "why": "It closed a chapter of the city that cotton built.",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "March 2002",
+      "era": "modern",
+      "art": "molecule",
+      "key": true,
+      "title": "India approves Bt cotton",
+      "who": "GEAC, Mahyco with Monsanto technology",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The Genetic Engineering Approval Committee cleared three Cry1Ac hybrids for central and southern India, India's first genetically modified crop. Unapproved Bt seed was already in fields in Gujarat. A two-toxin version followed in 2006.",
+      "why": "It became one of the fastest crop changes on record, and one of the most argued about.",
+      "box": "growing",
+      "sources": [
+        25,
+        15,
+        16
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "about 2010 onward",
+      "era": "modern",
+      "art": "leaf",
+      "title": "Pink bollworm survives Bt",
+      "who": "Cotton pests of Gujarat, then beyond",
+      "where": "Amreli, Gujarat",
+      "country": "India",
+      "text": "Survival on one-toxin Bt cotton was reported in Amreli about 8 years after its launch. By about 2014 to 2015 resistance to both toxins was reported in Gujarat, spreading to central and southern India. Too little refuge and long growing seasons were among the reasons given.",
+      "why": "Evolution caught up with the gene, as biologists had warned it might.",
+      "box": "growing",
+      "sources": [
+        19,
+        20,
+        15
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "2011 to 2014",
+      "era": "modern",
+      "art": "scales",
+      "title": "Bt and farmer suicides: what evidence says",
+      "who": "Gruère & Sengupta; Plewis; NCRB",
+      "where": "India",
+      "country": "India",
+      "text": "Peer-reviewed reviews find no evidence that Bt alone caused a rise in farmer suicides, but note that in some districts and years crop failure and debt may have added to distress. NCRB counted 10,786 suicides in farming in 2023, and its data does not record crop. Causation is debated.",
+      "why": "Real suffering deserves careful evidence, not slogans.",
+      "box": "growing",
+      "sources": [
+        17,
+        18,
+        27
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "2012 and 2020",
+      "era": "modern",
+      "art": "scales",
+      "title": "Two readings of Bt's record",
+      "who": "Kathage & Qaim; Kranthi & Stone",
+      "where": "Göttingen, Nagpur, St Louis",
+      "country": "India",
+      "text": "Following 533 farmers from 2002 to 2008, Kathage and Qaim credited Bt with a 24% gain in yield per acre. Kranthi and Stone's 2020 long-term view calls Bt a poor indicator of yield trends, tracking fertiliser and other inputs instead, and notes pesticide spending now above pre-Bt levels.",
+      "why": "Different windows and methods give different answers, and the debate is honest.",
+      "box": "growing",
+      "sources": [
+        16,
+        15
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "2020 to 2026",
+      "era": "modern",
+      "art": "earth",
+      "key": true,
+      "title": "India today",
+      "who": "Ministry of Textiles, CCI, ICAC",
+      "where": "India",
+      "country": "India",
+      "text": "India has the world's largest cotton area and is second in output after China. Official figures fall from 352.48 lakh bales in 2020-21 to 290.91 in 2025-26, at 428 to 451 kg per hectare, against a world mean of 786. The 2026-27 MSP is ₹8,267 and ₹8,667 per quintal.",
+      "why": "A huge crop with low yields, grown mostly on rain, carries many livelihoods.",
+      "box": "growing",
+      "sources": [
+        23,
+        22,
+        24
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest cotton in the Old World",
+      "value": "first half of the 6th millennium BCE",
+      "who": "Mehrgarh, Balochistan (Moulherat et al. 2002)"
+    },
+    {
+      "label": "Clear Indian mention of the spinning wheel",
+      "value": "12th century to c. 1350, disputed",
+      "who": "Isami, per Habib; earlier Kannada source, per others"
+    },
+    {
+      "label": "Saw gin patent",
+      "value": "14 March 1794",
+      "who": "Eli Whitney, USA"
+    },
+    {
+      "label": "Bombay's first cotton mill",
+      "value": "founded 1854",
+      "who": "Cowasji Nanabhoy Davar"
+    },
+    {
+      "label": "India's first GM crop",
+      "value": "March 2002",
+      "who": "Bt cotton, approved by the GEAC"
+    }
+  ],
+  "people": [
+    {
+      "name": "Cowasji Nanabhoy Davar",
+      "life": "1815 – 1873",
+      "role": "Mill founder",
+      "from": "Bombay, India",
+      "note": "Set up the Bombay Spinning and Weaving Company in 1854."
+    },
+    {
+      "name": "Eli Whitney",
+      "life": "1765 – 1825",
+      "role": "Inventor",
+      "from": "USA",
+      "note": "Patented the saw gin; he profited little, and slavery grew on the cotton it cleaned."
+    },
+    {
+      "name": "Catherine Littlefield Greene",
+      "life": "1755 – 1814",
+      "role": "Plantation owner",
+      "from": "USA",
+      "note": "Whitney's host, who backed him while he worked on the gin. Her own role in its design is disputed."
+    },
+    {
+      "name": "Richard Arkwright",
+      "life": "1732 – 1792",
+      "role": "Mill builder",
+      "from": "England",
+      "note": "His water frame and factories set the pattern for the machine age."
+    },
+    {
+      "name": "William Bolts",
+      "life": "1739 – 1808",
+      "role": "Merchant and critic",
+      "from": "Dutch-born, in Company service",
+      "note": "His 1772 book described Company coercion of Bengal's weavers."
+    },
+    {
+      "name": "Mohandas Karamchand Gandhi",
+      "life": "1869 – 1948",
+      "role": "Leader of the freedom movement",
+      "from": "India",
+      "note": "Made the charkha and khadi a daily political act."
+    },
+    {
+      "name": "C. T. Patel",
+      "life": "1917 – 2001 (dates unverified)",
+      "role": "Cotton breeder",
+      "from": "India",
+      "note": "Bred Hybrid-4, released in 1970."
+    },
+    {
+      "name": "Datta Samant",
+      "life": "1932 – 1997",
+      "role": "Trade union leader",
+      "from": "Bombay, India",
+      "note": "Led the great textile strike of 1982 to 83."
+    }
+  ],
+  "series": [
+    {
+      "id": "enslaved",
+      "title": "People enslaved in the United States, by census",
+      "unit": "people",
+      "log": false,
+      "after": "empire",
+      "caption": "Cotton did not cause slavery, but after the gin slavery grew with it. Census figures, 1790 to 1860.",
+      "points": [
+        {
+          "year": 1790,
+          "value": 697681,
+          "label": "1790 census"
+        },
+        {
+          "year": 1800,
+          "value": 893602,
+          "label": "1800 census"
+        },
+        {
+          "year": 1810,
+          "value": 1191362,
+          "label": "1810 census"
+        },
+        {
+          "year": 1820,
+          "value": 1538022,
+          "label": "1820 census"
+        },
+        {
+          "year": 1830,
+          "value": 2009043,
+          "label": "1830 census"
+        },
+        {
+          "year": 1840,
+          "value": 2487355,
+          "label": "1840 census"
+        },
+        {
+          "year": 1850,
+          "value": 3204313,
+          "label": "1850 census"
+        },
+        {
+          "year": 1860,
+          "value": 3953760,
+          "label": "1860 census"
+        }
+      ]
+    },
+    {
+      "id": "production",
+      "title": "India's cotton output, official figures",
+      "unit": "lakh bales of 170 kg",
+      "log": false,
+      "after": "modern",
+      "caption": "From a Rajya Sabha reply and the Agriculture Ministry's estimate. Three points only, not a smooth trend.",
+      "points": [
+        {
+          "year": 2020,
+          "value": 352.48,
+          "label": "2020-21"
+        },
+        {
+          "year": 2024,
+          "value": 294.25,
+          "label": "2024-25, second advance estimate"
+        },
+        {
+          "year": 2025,
+          "value": 290.91,
+          "label": "2025-26"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Every single cotton fibre is one cell, up to 3 cm long and about 15 micrometres wide.",
+    "Dhaka muslin was made with yarn of 300 count or finer, finer than machines easily managed for a long time. Its plant, phuti karpas, was lost, and a revival uses a close relative.",
+    "A popular story says British officials cut off weavers' thumbs. Historians reject it as a misreading of a 1772 report, but the coercion he described is documented.",
+    "Cotton is stronger wet than dry: about 10 to 20% in textile tables.",
+    "ICAC's study puts India's cotton at about 10,400 litres of water per kg of lint, only about 710 of it from irrigation."
+  ],
+  "sources": [
+    {
+      "title": "First evidence of cotton at Neolithic Mehrgarh (Moulherat et al., J. Archaeological Science 29, 2002)",
+      "publisher": "harappa.com",
+      "url": "https://www.harappa.com/sites/default/files/pdf/First_Evidence_of_Cotton_at_Mehrgarh.pdf"
+    },
+    {
+      "title": "The quest for a piece of cotton unearthed at Mohenjo-daro",
+      "publisher": "harappa.com",
+      "url": "https://www.harappa.com/content/quest-piece-cotton-unearthed-mohenjo-daro"
+    },
+    {
+      "title": "The Periplus of the Erythraean Sea",
+      "publisher": "Fordham University, Internet Ancient History Sourcebook",
+      "url": "https://sourcebooks.web.fordham.edu/ancient/periplus.asp"
+    },
+    {
+      "title": "Spinning wheel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spinning_wheel"
+    },
+    {
+      "title": "Hand churka or roller cotton gin",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co44607"
+    },
+    {
+      "title": "History of cotton",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_cotton"
+    },
+    {
+      "title": "Muslin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Muslin"
+    },
+    {
+      "title": "Calico Acts",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Calico_Acts"
+    },
+    {
+      "title": "Eli Whitney's patent for the cotton gin (Prologue, Fall 2004)",
+      "publisher": "US National Archives",
+      "url": "https://www.archives.gov/publications/prologue/2004/fall/cotton-gin-patent"
+    },
+    {
+      "title": "Population of the United States, 1790-1860",
+      "publisher": "NCpedia / LEARN NC",
+      "url": "https://www.ncpedia.org/sites/default/files/documents/nchist_total-pop-til-1860.pdf"
+    },
+    {
+      "title": "Bombay Spinning and Weaving Company",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bombay_Spinning_and_Weaving_Company"
+    },
+    {
+      "title": "Handloom weaving, in Traditional Industry in the Economy of Colonial India (T. Roy)",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/traditional-industry-in-the-economy-of-colonial-india/handloom-weaving/406BAAA6612B27FC39855330FF8A55F2"
+    },
+    {
+      "title": "Khadi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khadi"
+    },
+    {
+      "title": "All India Spinners Association",
+      "publisher": "Nehru Archive",
+      "url": "https://nehruarchive.in/organisations/all-india-spinners-association"
+    },
+    {
+      "title": "Great Bombay textile strike",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Bombay_textile_strike"
+    },
+    {
+      "title": "Long-term impacts of Bt cotton in India (Kranthi & Stone, Nature Plants 6, 2020)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32170289/"
+    },
+    {
+      "title": "Economic impacts and impact dynamics of Bt cotton in India (Kathage & Qaim, PNAS 2012)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3406847"
+    },
+    {
+      "title": "Bt cotton and farmer suicides in India: an evidence-based assessment (Gruère & Sengupta, J. Development Studies 47, 2011)",
+      "publisher": "EconPapers",
+      "url": "https://econpapers.repec.org/RePEc:taf:jdevst:v:47:y:2011:i:2:p:316-337"
+    },
+    {
+      "title": "GM cotton and suicide rates for Indian farmers (Plewis, working paper 2014)",
+      "publisher": "University of Manchester",
+      "url": "https://hummedia.manchester.ac.uk/institutes/cmist/archive-publications/working-papers/2014/2014-04-Suicides_WP_d1.pdf"
+    },
+    {
+      "title": "Pink bollworm survival on transgenic cotton in India (2021)",
+      "publisher": "Egyptian Journal of Biological Pest Control",
+      "url": "https://link.springer.com/article/10.1186/s41938-021-00393-7"
+    },
+    {
+      "title": "Pink bollworm versus Bt cotton: three countries, three results",
+      "publisher": "Entomology Today",
+      "url": "https://entomologytoday.org/2019/07/22/pink-bollworm-versus-bt-cotton-three-countries-three-results/"
+    },
+    {
+      "title": "Molecular regulation of cotton fiber development: a review (Jan et al., 2022)",
+      "publisher": "Int. J. Molecular Sciences, PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9101851/"
+    },
+    {
+      "title": "Water footprint in cotton 2020-2024: a global assessment, summary note",
+      "publisher": "ICAC",
+      "url": "https://www.icac.org/wp-content/uploads/2025/04/WATER-PAPER-Summary-note.pdf"
+    },
+    {
+      "title": "India's cotton output moderates to 290.91 lakh bales in FY26 (Rajya Sabha reply, MoS Textiles)",
+      "publisher": "IANS",
+      "url": "https://ianslive.in/indias-cotton-output-moderates-to-29091-lakh-bales-in-fy26--20260724165358"
+    },
+    {
+      "title": "Cabinet approves MSP for kharif crops for marketing season 2026-27",
+      "publisher": "Prime Minister's site, narendramodi.in",
+      "url": "https://www.narendramodi.in/cabinet-approves-minimum-support-prices-msp-for-kharif-crops-for-marketing-season-2026-27"
+    },
+    {
+      "title": "Status of GM crops in India",
+      "publisher": "Tamil Nadu Agricultural University",
+      "url": "https://agritech.tnau.ac.in/bio-tech/biotech_gmcrop_ststusinindia.html"
+    },
+    {
+      "title": "Cotton",
+      "publisher": "Textile Research Centre, Leiden",
+      "url": "https://trc-leiden.nl/trc-needles/materials/fibres/cotton"
+    },
+    {
+      "title": "Over 10,700 people involved in farming committed suicide in 2023 (NCRB)",
+      "publisher": "Deccan Herald",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fover-10700-people-involved-in-farming-committed-suicide-in-2023-38-from-maharashtra-ncrb-3748157"
+    },
+    {
+      "title": "Bangladesh revives elite forgotten fabric",
+      "publisher": "Hurriyet Daily News (AFP)",
+      "url": "https://hurriyetdailynews.com/bangladesh-revives-elite-forgotten-fabric-171972"
+    },
+    {
+      "title": "Textile manufacture during the British Industrial Revolution",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Textile_manufacture_during_the_British_Industrial_Revolution"
+    },
+    {
+      "title": "Lancashire cotton famine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lancashire_cotton_famine"
+    },
+    {
+      "title": "NHRC notice over deaths of farmers spraying pesticide on cotton, Yavatmal",
+      "publisher": "SCC Online",
+      "url": "https://www.scconline.com/blog/post/2017/10/16/nhrc-notice-centre-maharashtra-govt-reported-deaths-farmers-due-infection-caused-spraying-pesticide-cotton-crops/"
+    },
+    {
+      "title": "Indian state to map cotton supply chain to stamp out child labour",
+      "publisher": "Eco-Business",
+      "url": "https://www.eco-business.com/news/indian-state-to-map-cotton-supply-chain-to-stamp-out-child-labour"
+    },
+    {
+      "title": "Cotton Physiology, chapter 24",
+      "publisher": "National Cotton Council",
+      "url": "https://www.cotton.org/foundation/reference-books/cotton-physiology/upload/COTTON-PHYSIOLOGY-Chapter-24.pdf"
+    },
+    {
+      "title": "Cotton Corporation of India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cotton_Corporation_of_India"
+    },
+    {
+      "title": "Organic and global standards: Global Organic Textile Standard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Global_Organic_Textile_Standard"
+    }
+  ]
+}

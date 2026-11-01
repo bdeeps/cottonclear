@@ -1,0 +1,126 @@
+{
+  "slug": "cottonclear",
+  "box": 195,
+  "question": "How does cotton form?",
+  "url": "https://glassbox.how/e/cottonclear/",
+  "app": "https://glassbox.how/cottonclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "Over 7,000 years from threads on a copper bead to a gene in a field, through empire, slavery and freedom.\n\n5500 BCE: Cotton threads on a copper bead\n2500 BCE: Cloth on a silver vessel at Mohenjo-daro\n1350: The charkha in Indian writing\n1757: The Company takes control of Bengal's weavers\n1794: Whitney's saw gin\n1800: Slavery grows on cotton\n\nThe full story, with 25 moments, sources and charts: glassbox.how/e/cottonclear/history (link in bio)\n\nThen play with how it works: glassbox.how/cottonclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cotton #fibre #cellulose #textiles #btcotton #charkha #history",
+      "youtube": {
+        "title": "The history of cotton in 45 seconds #shorts",
+        "description": "Over 7,000 years from threads on a copper bead to a gene in a field, through empire, slavery and freedom.\n\n5500 BCE · Cotton threads on a copper bead (Neolithic people of Mehrgarh)\n2500 BCE · Cloth on a silver vessel at Mohenjo-daro (Harappan weavers)\n1350 · The charkha in Indian writing (Isami, Kannada poets)\n1757 · The Company takes control of Bengal's weavers (East India Company)\n1794 · Whitney's saw gin (Eli Whitney, on Catherine Greene's plantation in Georgia)\n1800 · Slavery grows on cotton (Enslaved African Americans)\n\n▶ Full history: https://glassbox.how/e/cottonclear/history/\n▶ Play with it: https://glassbox.how/e/cottonclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does cotton form?\n\nEvery white strand in a cotton boll is one single cell, grown nearly 3 cm long in twenty days, then filled with cellulose, dried and twisted. Grow one yourself, spin it into thread, and follow the fibre from Mehrgarh through empire, slavery and Gandhi's charkha to Bt cotton.\n\n→ A cotton boll is a fruit, and every white strand in it is one single living cell.\n→ From the day the flower opens, single seed cells grow to nearly 3 cm in about 20 days.\n→ Then it stops growing and fills with cellulose, one daily layer at a time, spiralling as it goes.\n→ The boll opens, the cell dies and dries, and the tube collapses into a twisted ribbon.\n→ Cotton is glucose chains joined by hydrogen bonds. Water slips between the loose ones, so it drinks sweat and gets stronger wet.\n\nPlay with it yourself. It's free and open source: glassbox.how/cottonclear (link in bio)\n\nBox No. 195 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cotton #fibre #cellulose #textiles #btcotton #charkha #khadi #muslin #spinning",
+    "carousel": "Swipe through: How does cotton form?\n\nEvery white strand in a cotton boll is one single cell, grown nearly 3 cm long in twenty days, then filled with cellulose, dried and twisted. Grow one yourself, spin it into thread, and follow the fibre from Mehrgarh through empire, slavery and Gandhi's charkha to Bt cotton.\n\nSave this for later, then play with the interactive version at glassbox.how/cottonclear (link in bio).\n\nBox No. 195 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cotton #fibre #cellulose #textiles #btcotton #charkha",
+    "youtube": {
+      "title": "How does cotton form? #shorts",
+      "description": "Every white strand in a cotton boll is one single cell, grown nearly 3 cm long in twenty days, then filled with cellulose, dried and twisted. Grow one yourself, spin it into thread, and follow the fibre from Mehrgarh through empire, slavery and Gandhi's charkha to Bt cotton.\n\n▶ Play with it: https://glassbox.how/e/cottonclear/\n⌘ Source code (MIT): https://github.com/bdeeps/cottonclear\n\nBox No. 195 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does cotton form? (interactive explainer)",
+      "description": "Every white strand in a cotton boll is one single cell, grown nearly 3 cm long in twenty days, then filled with cellulose, dried and twisted. Grow one yourself, spin it into thread, and follow the fibre from Mehrgarh through empire, slavery and Gandhi's charkha to Bt cotton.\n\n▶ Play with the interactive version: https://glassbox.how/e/cottonclear/\n⌘ Source code (MIT): https://github.com/bdeeps/cottonclear\n\nIn this video:\n• A seed hair, one cell long. Cotton is a shrub whose fruit, the boll, holds about 30 seeds.\n• One cell, 3 cm long. From the day the flower opens, a seed-skin cell grows for about 20 days to 25 to 30 mm.\n• Why cotton behaves as it does. Cellulose chains hold on by hydrogen bonds.\n• Twist makes friction make strength. Gins take off the lint, about a third of seed cotton's weight.\n• Growing it, fairly. India has the world's largest cotton area and is second in output, mostly grown on rain.\n• A thread through history. Cotton threads at Mehrgarh date to the 6th millennium BCE.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does cotton form?\n\nEvery white strand in a cotton boll is one single cell, grown nearly 3 cm long in twenty days, then filled with cellulose, dried and twisted.\n\nPlay with it: https://glassbox.how/e/cottonclear/",
+    "linkedin": "How does cotton form?\n\nEvery white strand in a cotton boll is one single cell, grown nearly 3 cm long in twenty days, then filled with cellulose, dried and twisted. Grow one yourself, spin it into thread, and follow the fibre from Mehrgarh through empire, slavery and Gandhi's charkha to Bt cotton.\n\n1. A seed hair, one cell long\n2. One cell, 3 cm long\n3. Why cotton behaves as it does\n4. Twist makes friction make strength\n5. Growing it, fairly\n6. A thread through history\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 195 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/cottonclear/\nCode: https://github.com/bdeeps/cottonclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-11-02T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-11-01T15:45:40.261Z"
+}
